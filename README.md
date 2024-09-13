@@ -7,7 +7,17 @@ This repository serves as a personal tracker for my journey to becoming a Data A
 The roadmap is divided into key sections covering both foundational and advanced topics in Data Analytics. Each section focuses on a specific area necessary to build expertise and practical experience.
 
 ## Table of Contents
-Introduction to Data Analytics
+## OVERVIEW OF DATA ANALYTICS
+WHAT I S DATA ANALYTICS?
+COMPONENT OF DATA ANALYST
+T O OL S NEEDED T O BE A DATA ANALYST
+WHY DATA ANALYTICS?
+SCOPE OF A DATA ANALYST
+SALAR Y OF A DATA ANALYST
+FREELANCING WIT H DATA ANALYST
+CHAT GPT AND DATA ANALYTICS
+USE OF CHAT GPT IN DATA ANALYTICS
+
 
 ## What is Data Analytics?
 Components of Data Analytics
