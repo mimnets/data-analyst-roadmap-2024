@@ -4,7 +4,7 @@
 This repository serves as a personal tracker for my journey to becoming a Data Analyst. It includes materials, learning resources, and project outlines for mastering data analytics skills required to become job-ready.
 
 ## My Path to Becoming a Data Analyst - (Bangla) || আমার ডেটা বিশ্লেষক হওয়ার পথ
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L6vuqctEsbY?si=TcLqur1C1u2nhb_z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Watch the video](https://img.youtube.com/vi/L6vuqctEsbY/0.jpg)](https://www.youtube.com/watch?v=L6vuqctEsbY)
 
 <video src="https://www.youtube.com/watch?v=L6vuqctEsbY" width="320" height="240" controls></video>
 
