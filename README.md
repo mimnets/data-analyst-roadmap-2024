@@ -30,23 +30,23 @@ The roadmap is divided into key sections covering both foundational and advanced
 - Conditional Formating
 
 ## BEGINNER TO ADVANCE EXCEL FORMULA & FUNCTION
-SUM, SUMIF,SUMIFS
-AVERAGE, AVERAGEIF, AVERAGEIFS
-COUNT, COUNTA, COUNTBLANK, COUNTIF, COUNTIFS
-IFERROR
-TEXT Functions
-MAX, MIN, MAXIFS, MINIFS function
-Round function
-Lookup function (V-lookup, H-lookup, X-LOOKUP)
-Index Match - Index XMatch
-How to Create Dummy Data in Excel
-Chat GPT and Data Analytics
-Excel function Explanation with Chat GPT
+- SUM, SUMIF,SUMIFS
+- AVERAGE, AVERAGEIF, AVERAGEIFS
+- COUNT, COUNTA, COUNTBLANK, COUNTIF, COUNTIFS
+- IFERROR
+- TEXT Functions
+- MAX, MIN, MAXIFS, MINIFS function
+- Round function
+- Lookup function (V-lookup, H-lookup, X-LOOKUP)
+- Index Match - Index XMatch
+- How to Create Dummy Data in Excel
+- Chat GPT and Data Analytics
+- Excel function Explanation with Chat GPT
 
 ## POWER PIVOT AND POWER QUERY
-What is a Power Pivot and Power Query?
-Data cleaning with Power query
-Working with multiple tables in power pivot.
+- What is a Power Pivot and Power Query?
+- Data cleaning with Power query
+- Working with multiple tables in power pivot.
 
 ## PIVOT TABLE
 - What is a Pivot Table?
