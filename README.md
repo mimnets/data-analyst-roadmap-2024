@@ -18,50 +18,52 @@ The roadmap is divided into key sections covering both foundational and advanced
 - CHAT GPT AND DATA ANALYTICS
 - USE OF CHAT GPT IN DATA ANALYTICS
 
+# EXCEL FOR BEING A DATA ANALYST
+## INTRODUCTION TO EXCEL
+- Introduction to Excel interface
+- Cell formatting - Copy, Cut and Paste in Excel.
+- Formatting Shortcuts
+- Adding and Deleting Columns and Rows in Excel
+- Use of Excel Shortcuts
+- Cell Referencing (Related vs absolute referencing)
+- Flash Fill Tutorial
+- Conditional Formating
 
-## What is Data Analytics?
-Components of Data Analytics
-Tools Needed
-Scope and Salary
-Freelancing as a Data Analyst
-ChatGPT in Data Analytics
-Basic Statistics
+## BEGINNER TO ADVANCE EXCEL FORMULA & FUNCTION
+SUM, SUMIF,SUMIFS
+AVERAGE, AVERAGEIF, AVERAGEIFS
+COUNT, COUNTA, COUNTBLANK, COUNTIF, COUNTIFS
+IFERROR
+TEXT Functions
+MAX, MIN, MAXIFS, MINIFS function
+Round function
+Lookup function (V-lookup, H-lookup, X-LOOKUP)
+Index Match - Index XMatch
+How to Create Dummy Data in Excel
+Chat GPT and Data Analytics
+Excel function Explanation with Chat GPT
 
-## Types of Data
-Central Tendency (Mean, Median, Mode)
-Variance and Standard Deviation
-Skewness
-Excel for Data Analysis
+## POWER PIVOT AND POWER QUERY
+What is a Power Pivot and Power Query?
+Data cleaning with Power query
+Working with multiple tables in power pivot.
 
-## Excel Functions: SUM, AVERAGE, COUNT, VLOOKUP, IFERROR
-Power Pivot and Power Query
-Creating and Formatting Charts & Graphs
-Pivot Tables
-Power BI for Data Visualization
-
-Power BI Interface and Installation
-Data Modeling
-Creating Dashboards
-DAX (Data Analysis Expressions)
-SQL for Data Analysis
-
-MySQL Installation
-DDL, DML, and DCL Statements
-SQL Queries (JOINs, Aggregation, Functions)
-Real-World SQL Projects
-Python for Data Analysis
-
-Python Basics: Variables, Data Types, Loops
-NumPy and Pandas for Data Manipulation
-Data Visualization using Matplotlib and Seaborn
-Machine Learning Basics
-
-Types of Machine Learning
-Regression and Classification Algorithms
-Sklearn and Pipelines
-Learning Goals
-Track progress in learning key skills needed to be a Data Analyst.
-Work on real-world projects to apply the knowledge.
-Build a solid understanding of data analytics tools like Excel, Power BI, MySQL, Python, and more.
-How to Use This Repository
-Each section corresponds to a phase of learning. Use the materials in the relevant folders to guide your study and project development. This repository will help track progress by documenting completed courses, tutorials, and hands-on projects.
+## PIVOT TABLE
+- What is a Pivot Table?
+- Creating a Pivot Table
+- Design & Formatting a Pivot Table.
+- Working with a Pivot Table.
+- Working with Slicer
+## EXCEL CHARTS & GRAPHS
+- What is Visualization? How to choose your best chart?
+- Excel Charts & Graphs formatting
+- Pie chart and Doughnut chart
+- Line chart
+- Area chart
+- Bar chart & column chart
+- Tree map
+- Histogram & pareto chart
+- Use of Pivot Table and Dynamic Chart
+- Heat Map
+- Scatter plot
+- Waterfall chart
