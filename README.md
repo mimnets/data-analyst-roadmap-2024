@@ -6,6 +6,9 @@ This repository serves as a personal tracker for my journey to becoming a Data A
 ## My Path to Becoming a Data Analyst - (Bangla) || আমার ডেটা বিশ্লেষক হওয়ার পথ
 <iframe width="560" height="315" src="https://www.youtube.com/embed/L6vuqctEsbY?si=TcLqur1C1u2nhb_z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<video src="https://www.youtube.com/watch?v=L6vuqctEsbY" width="320" height="240" controls></video>
+
+
 ## Overview
 The roadmap is divided into key sections covering both foundational and advanced topics in Data Analytics. Each section focuses on a specific area necessary to build expertise and practical experience.
 
