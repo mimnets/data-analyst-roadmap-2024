@@ -162,3 +162,131 @@ The roadmap is divided into key sections covering both foundational and advanced
 ## TWO END TO END POWER Bl REAL WORLD PROJECTS
 - Real World Projects With Inventory And Supply Chain Management
 - Real World Project With Sales Analysis, Customer Analysis, Products Analysis
+# Structured query Language (SQL)
+## GETTING STARTED TO MYSQL
+- What is Database?
+- What isSQL?
+- What is MySQL?
+- SQL Installation.
+- What is DDL (Data Definition Language)?
+- What is DML (Data Manipulation Language)?
+- What is DCL (Data Control Language)?
+- What is TCL (Transaction Control Language)
+- Database Terminology
+- What is the Primary key?
+- What is Foreign key?
+- Relation between Primary & Foreign key
+- Relationship between tables
+- Your first step in SQL
+- Creating Database in MySQL
+- Data types in MySQL
+- Creating table in MySQL
+
+## SQL STATEMENTS
+- Select & Insert Statements
+- Update and Delete Statements
+
+## SQL FUNCTIONS
+- Aggregation Function
+- Logical Function
+- Statistical Function
+- SQL Join Functions (Self join, inner join, right join, left join, cross join)
+
+# STATISTICS
+## PROBABILITY
+- Sample space, events, and outcomes
+- Joint Probability Distribution
+- Conditional Probability Distribution
+- Bayesian Probability
+
+## HYPOTHESIS TESTING
+- Null & Alternative Hypothesis
+- Type I Error and Type II Error
+- Level of Significance & p-values
+
+## REGRESSION
+- Simple Regression & Correlation .
+- Multiple Regression Analysis.
+
+# Python For Data Analysis
+## INTRODUCTION
+- Python for Data Analysis
+- Market demand for Python for Data Analysis
+- Installing Python step by step
+- Command Line Basics.
+- Python environment set up
+- Running code in Python.
+- Basics of Jupyter Notebook
+- Introduction to Python data types
+- Variable assignments in Python.
+- Python Numbers.
+- Work with Python strings.
+- String formatting in Python
+- Index slicing with string.
+- String properties and method
+## PYTHON DATA STRUCTURE AND STATEMENTS
+- List in python (List slicing, List functions, and methods)
+- Dictionaries in python (Dictionaries slicing, Dictionaries functions and methods)
+- Tuples in Python
+- Sets in Python
+- IO with basic file in Python
+- Python comparison operators(=,!=,<,< =,>,>=)
+- Python Loop (For Loop in python)
+- Python Loop (While Loop in python)
+- If, elif, else statements in python
+
+## PYTHON FUNCTION
+- Introduction to Python function
+- Basics of Python Function
+- Function keywords
+- Logic with python function
+- Lambda expression
+- Logic with python function
+
+## PYTHON LIBRARIES - NumPy
+- Introduction to Python libraries
+- Introduction to NumPy
+- Arrays in NumPy
+- How to generate different random numbers with NumPy
+- NumPy operations
+
+## PYTHON LIBRARIES - PANDAS
+- Introduction to Pandas
+- What is a data frame in Pandas?
+- Reading different files in Pandas
+- Data cleaning with Pandas
+- Apply different functions in Pandas
+- Working with missing values
+- Group by operation in Pandas
+
+# MATPLOTLIB FOR DATA VISUALIZATION
+- Introduction to matplotlib
+- Basic of matplotlib
+- Creating a figure object
+- Figure parameters
+- Matplotlib subplot
+- Matplotlib styling
+
+# SEABORN FOR DATA VISUALIZATION
+- Introduction to seaborn
+- Different types of plot in seaborn
+- Seaborn styling
+
+# REAL WORLD PROJECT
+- Real World Project with Pandas
+- Real World Project with Seaborn
+
+# Introduction To Machine Learning
+- Basics of Machine Learning
+- Types of Machine Learning
+- Python Libraries for Machine Learning
+- Machine Learning use cases
+- Introduction with Sk-learn & pipeline
+
+# REGRESSION AND CLASSIFICATION
+- Regression VS Classification
+- Linear Regression
+- Implementation of linear regression in python
+- Logistic Regression
+- Naive Bayes Classier
+- Implementation of Logistic regression in python
