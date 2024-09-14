@@ -73,3 +73,73 @@ The roadmap is divided into key sections covering both foundational and advanced
 - Heat Map
 - Scatter plot
 - Waterfall chart
+
+# POWER BI FOR MASTERING BUSINESS INTELLIGENCE
+## POWER BI MAIN INTERFACE AND POWER QUERY
+- What is Power BI
+- Why Power BI
+- How to install Power BI
+- Basics about Power Bl interface
+- What is a power query?
+- Different data connectors
+- Working with text (split, trim, upper lower etc.)
+- Add columns, remove columns, rows, etc
+- Extract text with delimiter
+- How to work with numbers
+- Diference between add column and transform.
+- Add, divide, subtract, multiply.
+- Mean, mode, median, std count etc.
+- Percentage.
+- Data types (numeric, text date/time etc.).
+- Modules, rounding function etc.
+
+## POWER QUERY CONTINUED
+- Append multiple CSV Files from a folder.
+- Append multiple Excel tables/ Sheets from
+- Append Excel tables with diferent numbers.
+- Append multiple Excel files from a folder.
+- Append Different data source files in Power Query ( Power Bl )
+- Merge Tables/Sheets in Power Query (Power Bl)
+- Merge Data from multiple Excel Files/Workbooks in Group by in Power Query
+
+## DATA MODELING IN POWER BI
+- What is a data model?
+- Fact vs dimension table.
+- Primary key vs foreign key
+- Building relationships between tables.
+- What is tar schema?
+- Filter Flow.
+- What is a snowwake schema?
+- Adding multiple fact tables.
+- Data modeling recap
+
+## POWER BI CHART AND GRAPHS
+- Column Chart
+- Stacked Column Chart
+- Pie Chart
+- Donut Chart
+- Funnel Chart
+- Ribbon Chart
+- Include and Exclude
+- Export data from Visual
+- Number Card
+- Text Card
+- Date Card
+- Multi-Row Card
+- Filter on Visual
+- Filter on Page
+- Filter on Al I Pages
+- Drill through
+- Line Chart
+- Drill down in Line Chart
+- Area Chart
+- Line vs Column Chart
+- Scatter Plot
+- Waterfall Chart
+- Tree Map
+- Gauge Chart.
+- Slicer for Text
+- Format Text Slicer
+- Date Slicer.
+- Format Date Slicer
+- Number Slicer
