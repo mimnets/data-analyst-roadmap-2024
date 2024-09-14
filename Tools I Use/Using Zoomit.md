@@ -2,6 +2,7 @@
 The first time you run ZoomIt it presents a configuration dialog that describes ZoomIt's behavior, let's you specify alternate hotkeys for zooming and for entering drawing mode without zooming, and customize the drawing pen color and size. I use the draw-without-zoom option to annotate the screen at its native resolution, for example. ZoomIt also includes a break timer feature that remains active even when you tab away from the timer window and allows you to return to the timer window by clicking on the ZoomIt tray icon.
 ## Shortcuts
 | Function |	Shortcut |
+|  --------- | ---------- |
 | Zoom Mode	| Ctrl + 1 |
 | Zoom In	| Mouse Scroll Up or Up Arrow |
 | Zoom Out	| Mouse Scroll Down or Down Arrow |
