@@ -143,3 +143,22 @@ The roadmap is divided into key sections covering both foundational and advanced
 - Date Slicer.
 - Format Date Slicer
 - Number Slicer
+## DAX BASIC TO ADVANCE IN POWER BI
+- Basic DAX Syntax.
+- Calculated Column s in DAX
+- Measure in DAX
+- Different formulas in DAX (Aggregation, logical Etc)
+- Creating advanced DAX measure in Power BI
+- Import and Direct query mode
+
+## POWER Bl SERVICE
+- Create an Account on Power BI Service
+- Publish Report on Power BI Service Account
+- Export (PPT, PDF, PBIX) Report and Share
+- Comment, Share and Subscribe to a report
+- ConnectingPower BI to Different Databases
+- Connecting Power BI to Rest APl'S
+
+## TWO END TO END POWER Bl REAL WORLD PROJECTS
+- Real World Projects With Inventory And Supply Chain Management
+- Real World Project With Sales Analysis, Customer Analysis, Products Analysis
