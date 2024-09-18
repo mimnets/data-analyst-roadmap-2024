@@ -27,6 +27,7 @@ The roadmap is divided into key sections covering both foundational and advanced
 # EXCEL FOR BEING A DATA ANALYST
 ## INTRODUCTION TO EXCEL
 - Introduction to Excel interface
+  <video src="https://www.youtube.com/watch?v=2b6IvLB8p6U" width="320" height="240" controls></video>
 - Cell formatting - Copy, Cut and Paste in Excel.
 - Formatting Shortcuts
 - Adding and Deleting Columns and Rows in Excel
